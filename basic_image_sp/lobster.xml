@@ -1,0 +1,80 @@
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>Fresh Gulf Lobsters: Gulf Shore Packing Co.</title>
+    <subTitle>Souris, P.E. Island</subTitle>
+  </titleInfo>
+  <typeOfResource>still image</typeOfResource>
+  <originInfo>
+    <dateIssued></dateIssued>
+    <publisher></publisher>
+    <place>
+      <placeTerm authority="marccountry" type="code"></placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text"></placeTerm>
+    </place>
+  </originInfo>
+  <digitalOrigin>digitized other analog</digitalOrigin>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <abstract>A colour postcard featuring the label from a lobster cannery, the Gulf Shore Packing Co. drawn by William Critchlow Harris. The label includes an image of a lobster with a three link chain and the terms &quot;put up by&quot; on the three links. Another portion of label includes the brand of the canned lobster - Three Link Brand - with the names of the owners on the links.  The packing company was located in Souris, PE. </abstract>
+  <physicalDescription>
+    <form authority="marcform">nonprojected graphic</form>
+    <extent>1 colour postcard</extent>
+  </physicalDescription>
+  <identifier type="local"></identifier>
+  <note>Souris, PEI Post Card
+Lobster Factory Can Label designed by William Critchlow Harris (1854-1913)</note>
+  <accessCondition></accessCondition>
+  <subject>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Prince Edward Island</province>
+      <area>Lot 45</area>
+      <county>Kings</county>
+      <city>Souris</city>
+      <citySection></citySection>
+      <region></region>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>46.350216,-62.250552 </coordinates>
+    </cartographics>
+    <topic>Labels</topic>
+    <topic>Fishing industry</topic>
+    <topic>Packing plants</topic>
+    <geographic>Souris, PE</geographic>
+    <temporal></temporal>
+  </subject>
+  <relatedItem type="constituent">
+    <title></title>
+    <identifier type="pid"></identifier>
+  </relatedItem>
+  <name type="personal">
+    <namePart>Anderson</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text"></roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Stewart</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text"></roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>MacVane</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text"></roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Harris, William Critchlow</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Artist</roleTerm>
+    </role>
+  </name>
+  <genre authority="lctgm">Postcards</genre>
+</mods>

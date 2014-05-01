@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim">
+    <marc:leader>     nkm  22     uu 4500</marc:leader>
+    <marc:controlfield tag="008">      s        |||||||||||||||||eng||</marc:controlfield>
+    
+    <marc:datafield tag="245" ind1="1" ind2="0">
+        <marc:subfield code="a">Fresh Gulf Lobsters: Gulf Shore Packing Co.</marc:subfield>
+        <marc:subfield code="b">Souris, P.E. Island</marc:subfield>
+    </marc:datafield>
+    
+    
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+        <marc:subfield code="a"/>
+        <marc:subfield code="b"/>
+        <marc:subfield code="c"/>
+    </marc:datafield>
+    
+    
+    
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+        <marc:subfield code="a">A colour postcard featuring the label from a lobster cannery, the Gulf Shore Packing Co. drawn by William Critchlow Harris. The label includes an image of a lobster with a three link chain and the terms "put up by" on the three links. Another portion of label includes the brand of the canned lobster - Three Link Brand - with the names of the owners on the links.  The packing company was located in Souris, PE. </marc:subfield>
+    </marc:datafield>
+    
+    
+    
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+        <marc:subfield code="a">1 colour postcard</marc:subfield>
+    </marc:datafield>
+    
+    
+    
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+        <marc:subfield code="a">Souris, PEI Post Card
+            Lobster Factory Can Label designed by William Critchlow Harris (1854-1913)</marc:subfield>
+    </marc:datafield>
+    
+    <marc:datafield tag="" ind1=" " ind2=" ">
+        <marc:subfield code="a"/>
+    </marc:datafield>
+    
+    
+    
+    <marc:datafield tag="255" ind1=" " ind2=" ">
+        <marc:subfield code="c">46.350216,-62.250552 </marc:subfield>
+    </marc:datafield>
+    
+    <marc:subfield code="x">Labels</marc:subfield>
+    
+    <marc:subfield code="x">Fishing industry</marc:subfield>
+    
+    <marc:subfield code="x">Packing plants</marc:subfield>
+    
+    <marc:subfield code="z">Souris, PE</marc:subfield>
+    
+    <marc:subfield code="y"/>
+    
+    
+    <marc:datafield tag="774" ind1="0" ind2=" "/>
+    
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+        <marc:subfield code="a">Anderson</marc:subfield>
+        <marc:subfield code="e"/>
+    </marc:datafield>
+    
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+        <marc:subfield code="a">Stewart</marc:subfield>
+        <marc:subfield code="e"/>
+    </marc:datafield>
+    
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+        <marc:subfield code="a">MacVane</marc:subfield>
+        <marc:subfield code="e"/>
+    </marc:datafield>
+    
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+        <marc:subfield code="a">Harris, William Critchlow</marc:subfield>
+        <marc:subfield code="e">Artist</marc:subfield>
+    </marc:datafield>
+    
+    <marc:datafield tag="655" ind1=" " ind2="7">
+        <marc:subfield code="a">Postcards</marc:subfield>
+        <marc:subfield code="2">lctgm</marc:subfield>
+    </marc:datafield>
+    
+</marc:record>

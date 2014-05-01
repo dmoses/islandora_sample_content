@@ -1,0 +1,62 @@
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>Seafarers Haven, Prince Edward Island, Canada</title>
+    <subTitle>Naufrage Harbour</subTitle>
+  </titleInfo>
+  <typeOfResource>still image</typeOfResource>
+  <originInfo>
+    <dateIssued></dateIssued>
+    <publisher></publisher>
+    <place>
+      <placeTerm authority="marccountry" type="code"></placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text"></placeTerm>
+    </place>
+  </originInfo>
+  <digitalOrigin>digitized other analog</digitalOrigin>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <abstract>A colour aerial photographic postcard of Naufrage Harbour. Pictured are fishing boats in the harbour, surrounding buildings, and the run out of the harbour into the ocean.</abstract>
+  <physicalDescription>
+    <form authority="marcform">nonprojected graphic</form>
+    <extent>1 colour postcard</extent>
+  </physicalDescription>
+  <identifier type="local"></identifier>
+  <note>Naufrage, PEI Post Card</note>
+  <accessCondition></accessCondition>
+  <subject>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Prince Edward Island</province>
+      <area>Lot 43</area>
+      <county>Kings</county>
+      <city>Naufrage</city>
+      <citySection></citySection>
+      <region></region>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>46.467645,-62.417107 </coordinates>
+    </cartographics>
+    <topic>Boats</topic>
+    <topic>Aerial photographs</topic>
+    <topic>Fishing industry</topic>
+    <topic>Buildings</topic>
+    <geographic>Naufrage, PE</geographic>
+    <temporal></temporal>
+  </subject>
+  <relatedItem type="constituent">
+    <title></title>
+    <identifier type="pid"></identifier>
+  </relatedItem>
+  <name type="personal">
+    <namePart></namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text"></roleTerm>
+    </role>
+  </name>
+  <genre authority="lctgm">Panoramic postcards</genre>
+</mods>

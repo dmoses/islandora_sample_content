@@ -1,0 +1,61 @@
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>Farmers Bank of Rustico / Le Banque de Rustico</title>
+    <subTitle>1864-1894</subTitle>
+  </titleInfo>
+  <typeOfResource>still image</typeOfResource>
+  <originInfo>
+    <dateIssued></dateIssued>
+    <publisher></publisher>
+    <place>
+      <placeTerm authority="marccountry" type="code"></placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text"></placeTerm>
+    </place>
+  </originInfo>
+  <digitalOrigin>digitized other analog</digitalOrigin>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <abstract>A colour photographic postcard of the Farmers Bank in Rustico, Prince Edward Island.</abstract>
+  <physicalDescription>
+    <form authority="marcform">nonprojected graphic</form>
+    <extent>1 colour postcard</extent>
+  </physicalDescription>
+  <identifier type="local"></identifier>
+  <note>Rustico, PEI Post Card</note>
+  <accessCondition></accessCondition>
+  <subject>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Prince Edward Island</province>
+      <area>Lot 24</area>
+      <county>Queens</county>
+      <city>Rustico</city>
+      <citySection></citySection>
+      <region></region>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>46.432721,-63.318901 </coordinates>
+    </cartographics>
+    <topic>Postcards</topic>
+    <topic>Banks</topic>
+    <topic>Architectural photographs</topic>
+    <geographic>Rustico, PE</geographic>
+    <temporal></temporal>
+  </subject>
+  <relatedItem type="constituent">
+    <title></title>
+    <identifier type="pid"></identifier>
+  </relatedItem>
+  <name type="personal">
+    <namePart>Hermann, J.</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+    </role>
+  </name>
+  <genre authority="lctgm">Photographic postcards</genre>
+</mods>

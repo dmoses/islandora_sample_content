@@ -1,0 +1,52 @@
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>Cardigan Rural Setting</title>
+    <subTitle></subTitle>
+  </titleInfo>
+  <typeOfResource>still image</typeOfResource>
+  <originInfo>
+    <dateIssued></dateIssued>
+    <publisher></publisher>
+    <place>
+      <placeTerm authority="marccountry" type="code"></placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text"></placeTerm>
+    </place>
+  </originInfo>
+  <digitalOrigin>digitized other analog</digitalOrigin>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <abstract>A colour photographic postcard that has been tinted. Shows landscape and homes along the Cardigan River.</abstract>
+  <physicalDescription>
+    <form authority="marcform">nonprojected graphic</form>
+    <extent>1 colour postcard</extent>
+  </physicalDescription>
+  <identifier type="local"></identifier>
+  <note>Cardigan, PEI Post Card</note>
+  <accessCondition></accessCondition>
+  <subject>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Prince Edward Island</province>
+      <area>Lot 53</area>
+      <county>Kings</county>
+      <city>Cardigan</city>
+      <citySection></citySection>
+      <region></region>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>46.234684,-62.61975 </coordinates>
+    </cartographics>
+    <topic>Rural areas</topic>
+    <topic>Landscapes</topic>
+    <topic>Houses</topic>
+    <topic>Rivers</topic>
+    <geographic>Cardigan, PE</geographic>
+    <temporal></temporal>
+  </subject>
+  <genre authority="lctgm">Panoramic postcard</genre>
+</mods>

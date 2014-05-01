@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+ xmlns="http://www.loc.gov/mods/v3"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:mods="http://www.loc.gov/mods/v3">
+    <name type="personal"><namePart>Montgomery, Lucy Maud</namePart>
+        <role><roleTerm>Creator</roleTerm></role></name>
+    <name type="corporate"><namePart>Librivox</namePart>
+        <role><roleTerm>Contributor</roleTerm></role></name>
+    <titleInfo><title>02 - A Christmas Inspiration</title></titleInfo>
+    <typeOfResource>sound recording</typeOfResource>
+    <physicalDescription>
+        <extent>779.54</extent>
+        <form>64Kbps MP3</form>
+        <internetMediaType>audio/mp3</internetMediaType>
+    </physicalDescription>
+    <originInfo>
+        <dateIssued>2010-07-04</dateIssued>
+    </originInfo>
+    <accessCondition>http://creativecommons.org/licenses/by/3.0/</accessCondition>
+    <note>Librivox recording of a public-domain text</note>
+<relatedItem>
+    <identifier>lmm_short_stories_1896_1007_librivox</identifier>
+    <titleInfo>
+        <title>Lucy Maud Montgomery Short Stories, 1896 to 1901</title></titleInfo>
+    <name type="personal"><namePart>Montgomery, Lucy Maud</namePart>
+    <role><roleTerm>Creator</roleTerm></role></name>
+    <abstract>&lt;a href="http://librivox.org/" rel="nofollow"&gt;LibriVox&lt;/a&gt; recording of Lucy Maud Montgomery Short Stories, 1896 to 1901, by Lucy Maud Montgomery.
+        
+        Lucy Maud Montgomery was born at Clifton (now New London), Prince Edward Island, Canada, on November 30, 1874. She achieved international fame in her lifetime, putting Prince Edward Island and Canada on the world literary map. Best known for her "Anne of Green Gables" books, she was also a prolific writer of short stories and poetry. She published some 500 short stories and poems and twenty novels before her death in 1942. The Project Gutenberg collection of her short stories was gathered from numerous sources and is presented in chronological publishing order. (Summary by Project Gutenberg.)
+        
+        For further information, including links to online text, reader information, RSS feeds, CD cover or other formats (if available), please go to the LibriVox &lt;a href="https://librivox.org/lucy-maud-montgomery-short-stories-1896-to-1901-by-lucy-maud-montgomery/" rel="nofollow"&gt;catalog page&lt;/a&gt; for this recording.
+        
+        For more free audio books or to become a volunteer reader, visit &lt;a href="http://librivox.org/" rel="nofollow"&gt;LibriVox.org&lt;/a&gt;.
+        
+        &lt;a href="http://wiki.librivox.org/index.php/M4B_Catalog" rel="nofollow"&gt;M4B format
+        available&lt;/a&gt;</abstract>
+<originInfo>
+    <dateIssued>2010-07-04</dateIssued>
+</originInfo>
+    <subject><topic>librivox</topic>
+        <topic>; audiobook</topic>
+        <genre>fiction</genre>
+    <geographic>Prince Edward Island</geographic>
+    <geographic>Canada</geographic></subject>
+    <accessCondition>http://creativecommons.org/licenses/by/3.0/</accessCondition>
+<location>
+    <url>https://librivox.org/lucy-maud-montgomery-short-stories-1896-to-1901-by-lucy-maud-montgomery/</url>
+</location>
+    <note>Librivox recording of a public-domain text</note>
+</relatedItem>
+</mods>
