@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>Boycott Edwin Mellen Press</title>
+  </titleInfo>
+  <typeOfResource>mixed material</typeOfResource>
+  <genre authority="lctgm">Website</genre>
+  <originInfo>
+    <dateCaptured>2014-05-01</dateCaptured>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <abstract>Crawl of boycottmellenpress.com</abstract>
+  <identifier type="local">boycottmellenpress-2014_05_01</identifier>
+  <physicalDescription>
+    <form authority="marcform">electronic</form>
+    <internetMediaType>text/html</internetMediaType>
+  </physicalDescription>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Boycott Edwin Mellen Press</title>
+    </titleInfo>
+    <location>
+      <url>http://boycottmellenpress.com/</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Dale Askey</topic>
+    <topic>Herbert Richardson</topic>
+    <topic>Edwin Mellen Press</topic>
+    <topic>boycott</topic>
+  </subject>
+</mods>
