@@ -1,0 +1,124 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <titleInfo>
+        <title>Cadre</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Jim</namePart>
+        <namePart type="family">Hornby</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">Editor</roleTerm>
+        </role>
+        <description>Editor from Oct. 3 1969 to Apr. 1970.</description>
+    </name>
+    <name type="personal">
+        <namePart type="given">Dennis</namePart>
+        <namePart type="family">MacKay</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">Editor</roleTerm>
+        </role>
+        <description>Editor from Sept. 9 1970 to Nov. 1970 with Rod Hildebrandt.</description>
+    </name>
+    <name type="personal">
+        <namePart type="given">Rod</namePart>
+        <namePart type="family">Hildebrandt</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">Editor</roleTerm>
+        </role>
+        <description>Editor from Sept. 9 1970 to Nov. 1970 with Dennis MacKay.</description>
+    </name>
+    <name type="personal">
+        <namePart type="given">Ron</namePart>
+        <namePart type="family">Kelly</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">Editor</roleTerm>
+        </role>
+        <description>Editor from Sept. 5 1972 to Nov. 24 1972.</description>
+    </name>
+    <name type="personal">
+        <namePart type="given">Carol</namePart>
+        <namePart type="family">Patterson</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">Editor</roleTerm>
+        </role>
+        <description>Editor from Dec. 1 1972 to Feb. 16 1973.</description>
+    </name>
+    <name type="personal">
+        <namePart type="given">Louise</namePart>
+        <namePart type="family">Mould</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">Editor</roleTerm>
+        </role>
+        <description>Editor from Mar. 10 1973 to Mar. 27 1973.</description>
+    </name>
+    <name type="personal">
+        <namePart type="given">Stan</namePart>
+        <namePart type="family">Dalton</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">Editor</roleTerm>
+        </role>
+        <description>Editor from Apr. 3 1973 to Apr. 9 1974.</description>
+    </name>
+    <name type="personal">
+        <namePart type="given">Richard</namePart>
+        <namePart type="family">Ellis</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">Editor</roleTerm>
+        </role>
+        <description>Editor from Sept. 17 1974 to Apr. 8 1975.</description>
+    </name>
+    <name type="personal">
+        <namePart type="given">Dave</namePart>
+        <namePart type="family">MacRae</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">Editor</roleTerm>
+        </role>
+        <description>Editor from Sept. 9 1975 to Apr. 6 1976.</description>
+    </name>
+    <name type="personal">
+        <namePart type="given">Tony</namePart>
+        <namePart type="family">Reddin</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">Editor</roleTerm>
+        </role>
+        <description>Editor from Sept. 16 1976 to Apr. 1 1977.</description>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">newspaper</genre>
+    <identifier type="issn">0839-2560</identifier>
+    <note type="prospectus">The University of Prince Edward Island Cadre began publication on October 3, 1969. It was the successor to the Prince of Wales College Times and the St. Dunstan&apos;s University Red and White, both of which institutions were amalgamated to form U.P.E.I. in 1969. The Cadre printed U.P.E.I. news and sports, news from other universities and strongly worded articles on current social issues. Photographs were printed in every issue. The Cadre supported student rights, sexual freedom and women&apos;s liberation. It attacked capitalism, Christianity and the Canadian university system. Issues of particular concern included unemployment, inflation and the high cost of tuition. The Cadre became less radical and critical towards the end of its publication history. It was succeeded by the UPEI Sun in the fall of 1977.</note>
+    <originInfo>
+        <place>
+            <placeTerm type="text">University of Prince Edward Island, Charlottetown, P. E. I.</placeTerm>
+        </place>
+        <dateIssued>1969-10-04T00:00:00.000Z</dateIssued>
+        <dateIssued point="start">1969-10-04T00:00:00.000Z</dateIssued>
+        <dateIssued point="end">1977-04-01T00:00:00.000Z</dateIssued>
+        <frequency authority="marcfrequency">Weekly</frequency>
+        <issuance>continuing</issuance>
+    </originInfo>
+    <subject>
+        <topic>Newspapers</topic>
+    </subject>
+    <subject>
+        <geographic>Prince Edward Island</geographic>
+    </subject>
+    <relatedItem type="succeeding">
+        <originInfo>
+            <issuance>continuing</issuance>
+        </originInfo>
+    </relatedItem>
+    <subject>
+        <hierarchicalGeographic>
+            <continent>North America</continent>
+            <country>Canada</country>
+            <province>Prince Edward Island</province>
+            <city>Charlottetown</city>
+            <citySection>550 University Avenue</citySection>
+            <county>Queens</county>
+        </hierarchicalGeographic>
+        <cartographics>
+            <coordinates>46.2554426, -63.1382377</coordinates>
+        </cartographics>
+    </subject>
+    <note type="credit">Information drawn from &lt;a href=&quot;http://islandpines.roblib.upei.ca/opac/en-CA/skin/roblib/xml/rdetail.xml?r=209752&quot; target=&quot;_blank&quot;&gt; A Checklist and historical directory of Prince Edward Island newspapers 1787-1986&lt;/a&gt;, compiled by Heather Boylan and made available courtesy of the &lt;a href=&quot;http://www.gov.pe.ca/archives/&quot; target=&quot;_blank&quot;&gt;Public Archives and Records Office of Prince Edward Island&lt;/a&gt;.</note>
+</mods>
